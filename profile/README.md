@@ -1,2 +1,3 @@
-## `traderrrsxyz` 👋
-Blazingly fast software for decentralised finance
+## Pyroglint 
+
+**Pyroglint** - research driven company. Building decentralised software. 
